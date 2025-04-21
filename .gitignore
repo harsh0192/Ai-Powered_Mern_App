@@ -1,0 +1,9 @@
+# Root-level ignores
+.env
+
+# Ignore node_modules inside frontend and backend
+frontend/node_modules
+frontend/.env
+
+backend/node_modules
+backend/.env
